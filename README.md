@@ -8,4 +8,4 @@ Kelas : Pemrograman Web A
 
 Tahun Ajaran : 2022/2023 (Genap)
 
-Link Website : https://halloween-landingpage.netlify.app
+Link Website : https://halloween-landingpagee.netlify.app/
